@@ -10,7 +10,7 @@
 
 </h5>
 
-## [Project page](https://latenteditor.github.io/) | [Paper](https://arxiv.org/abs/2312.09313) | [Live Demo (Coming Soon)]()
+## [Project page](https://latenteditor.github.io/) | [Paper](https://arxiv.org/abs/2312.09313) 
 
 
 <img src="assets/teaser_final.jpg"/>
