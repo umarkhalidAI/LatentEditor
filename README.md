@@ -17,7 +17,7 @@
 
 ## 😮 Highlights
 
-Repaint123 crafts 3D content from a single image, matching 2D generation quality in just ***2 minutes***.
+LatentEditor allows you to edit your 3D scenes in the matter of **minutes!**.
 
 ### 🔥 Simple Gaussian Splatting baseline for image-to-3D
 - Coarse stage: Gaussian Splatting optimized with SDS loss by Zero123 for geometry formation.
