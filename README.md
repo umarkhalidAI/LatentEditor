@@ -51,8 +51,8 @@ Overall pipeline of LatentEditor for model initialization and editing. (a) We in
 
 ### Quantitative comparison
 
-<img src="assets/quan-comparison.png"/>
-
+<img src="assets/compare_quan.png"/>
+Quantitative evaluation of scene edits in terms of text alignment and frame consistency in CLIP space where our approach demonstrates the highest consistency.
 
 ## 👍 **Acknowledgement**
 This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
