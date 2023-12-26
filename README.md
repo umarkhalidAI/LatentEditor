@@ -4,13 +4,13 @@
 <h5 align="center">
 
 [![webpage](https://latenteditor.github.io/)](https://latenteditor.github.io/)
-[![arXiv](https://arxiv.org/abs/2312.09313)](https://arxiv.org/abs/2312.09313)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/junwuzhang19/repaint123/blob/main/LICENSE) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2312.09313-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2312.09313)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/umarkhalidAI/LatentEditor/blob/main/LICENSE) 
 
 
 </h5>
 
-## [Project page](https://junwuzhang19.github.io/repaint123/) | [Paper](https://arxiv.org/abs/2312.13271) | [Live Demo (Coming Soon)]()
+## [Project page](https://latenteditor.github.io/) | [Paper](https://arxiv.org/abs/2312.09313) | [Live Demo (Coming Soon)]()
 
 
 <img src="assets/teaser.png"/>
