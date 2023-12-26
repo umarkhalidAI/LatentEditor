@@ -56,22 +56,20 @@ Quantitative evaluation of scene edits in terms of text alignment and frame cons
 
 ## 👍 **Acknowledgement**
 This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
-* [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)
-* [ControlNet](https://github.com/lllyasviel/ControlNet)
-* [Repaint](https://github.com/andreas128/RePaint)
+* [Instruct-NeRF2NeRF](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 * [Diffusers](https://github.com/huggingface/diffusers)
 
 ## ✏️ Citation
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```BibTeX
-@misc{zhang2023repaint123,
-    title={Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting},
-    author={Junwu Zhang and Zhenyu Tang and Yatian Pang and Xinhua Cheng and Peng Jin and Yida Wei and Wangbo Yu and Munan Ning and Li Yuan},
-    year={2023},
-    eprint={2312.13271},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@misc{khalid2023latenteditor,
+      title={LatentEditor: Text Driven Local Editing of 3D Scenes}, 
+      author={Umar Khalid and Hasan Iqbal and Nazmul Karim and Jing Hua and Chen Chen},
+      year={2023},
+      eprint={2312.09313},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 <!---->
