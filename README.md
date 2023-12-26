@@ -56,6 +56,7 @@ Quantitative evaluation of scene edits in terms of text alignment and frame cons
 
 ## 👍 **Acknowledgement**
 This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
+* [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
 * [Instruct-NeRF2NeRF](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 * [Diffusers](https://github.com/huggingface/diffusers)
 
