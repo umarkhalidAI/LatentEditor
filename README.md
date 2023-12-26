@@ -33,9 +33,9 @@ LatentEditor allows you to edit your 3D scenes in the matter of **minutes!**.
 
 Welcome to **watch** 👀 this repository for the latest updates.
 
-✅ **[2023.12.21]** : We have released our paper, LatentEditor on [arXiv](https://arxiv.org/abs/2312.09313).
+✅ **[2023.12.18]** : We have released our paper, LatentEditor on [arXiv](https://arxiv.org/abs/2312.09313).
 
-✅ **[2023.12.21]** : Release [project page](https://latenteditor.github.io/).
+✅ **[2023.12.18]** : Release [project page](https://latenteditor.github.io/).
 - [ ] Code release.
 
 ## 🛠️ Methodology
