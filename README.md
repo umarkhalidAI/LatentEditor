@@ -43,11 +43,11 @@ Welcome to **watch** 👀 this repository for the latest updates.
 <img src="assets/main_fig.jpg"/>
 Overall pipeline of LatentEditor for model initialization and editing. (a) We initialize the NeRF model within the latent domain, guided by the latent features of the original dataset. Our refinement adapter mitigates the misalignment in the latent space and encompasses a trainable adapter with residual and self-attention mechanisms. (b) Upon initialization, LatentEditor iteratively refines the model within the latent space for a predetermined number of iterations, while consistently updating the training set with the edited latents, Ze. (c) The Delta Module is adept at interpreting prompts and produces the mask for targeted editing. Additionally, it integrates the denoising U-Net from IP2P. However, ∆t used in calculating delta scores ∆e is a hyperparameter and is different from t which is randomly selected. An RGB image can be obtained by feeding the edited latent to the stable diffusion (SD) decoder D whereas E represents SD encoder.
 
-## 🚀 Image-to-3D Results
+## 🚀 3D-Editing Results
 
 ### Qualitative comparison
 
-<img src="assets/qual-comparison.jpg"/>
+<img src="assets/comp_qual.jpg"/>
 
 ### Quantitative comparison
 
