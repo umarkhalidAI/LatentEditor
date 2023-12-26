@@ -3,7 +3,7 @@
 
 <h5 align="center">
 
-[![webpage](https://latenteditor.github.io/)](https://latenteditor.github.io/)
+[![webpage](https://img.shields.io/badge/Webpage-blue)](https://latenteditor.github.io/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2312.09313-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2312.09313)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/umarkhalidAI/LatentEditor/blob/main/LICENSE) 
 
