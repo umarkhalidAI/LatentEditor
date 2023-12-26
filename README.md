@@ -13,7 +13,7 @@
 ## [Project page](https://latenteditor.github.io/) | [Paper](https://arxiv.org/abs/2312.09313) | [Live Demo (Coming Soon)]()
 
 
-<img src="assets/teaser.png"/>
+<img src="assets/teaser_final.jpg"/>
 
 ## 😮 Highlights
 
