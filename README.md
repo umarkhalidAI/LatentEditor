@@ -47,7 +47,7 @@ Overall pipeline of LatentEditor for model initialization and editing. (a) We in
 
 ### Qualitative comparison
 
-<img src="assets/comp_qual.jpg"/>
+<img src="assets/compare_qual.jpg"/>
 
 ### Quantitative comparison
 
