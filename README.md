@@ -39,6 +39,9 @@ Welcome to **watch** 👀 this repository for the latest updates.
 - [ ] Code release.
 - [ ] Online Demo.
 
+## 🛠️ Methodology
+
+<img src="assets/main_fig.jpg"/>
 
 ## 🤗 Demo
 
